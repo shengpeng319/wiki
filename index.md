@@ -1,25 +1,36 @@
 # Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分类，每条一行摘要。
-> 查询前先读此文件找到相关页面。
-> Last updated: 2026-04-18 | Total pages: 0
+> Last updated: 2026-04-18 | Total pages: 15
 
 ## Entities
 
-*尚无条目 — 摄入第一批资料后此处自动更新*
+- [[andrew-karpathy]] — AI 研究员，LLM Wiki 理念提出者，CS231n 讲师
+- [[tradingview-12-agents]] — 12 Agent 量化协作系统，BTC MACD 85.71% 胜率
 
 ## Concepts
 
-*尚无条目 — 摄入第一批资料后此处自动更新*
+- [[llm-wiki]] — Karpathy 提出的知识库设计模式，LLM 维护的结构化 Markdown 百科
+- [[raw-sources]] — 三层架构 Layer 1，原始资料只读层
+- [[vibecoding]] — AI 主导编程新范式，Pro Code 工具 10.9 万星标
+- [[investment-consensus]] — 10 位顶级基金经理的 5 个共同投资原则
+- [[llm-quant-trading]] — LLM 增强量化：市场理解、策略调度、非结构化信号处理
+- [[quant-toolchain]] — 量化交易工具链：TradingView、ssquant、12 Agent 架构
+- [[content-creation-skills]] — 5 个内容创作自动化技能包（Jia-style-writing、infocard 等）
 
 ## Comparisons
 
-*尚无条目 — 摄入第一批资料后此处自动更新*
+- [[rag-comparison]] — LLM Wiki vs 传统 RAG 的核心区别和适用场景
 
 ## Queries
 
-*尚无条目 — 摄入第一批资料后此处自动更新*
+*尚无条目*
 
 ## Raw Sources
 
-*尚无条目*
+- `raw/articles/karpathy-llm-wiki-zhihu.md` — LLM Wiki 知乎文章
+- `raw/articles/vibecoding-pro-code-bilibili.md` — Vibecoding B站视频笔记
+- `raw/articles/tradingview-12-agents.md` — 12 Agent 量化协作系统
+- `raw/articles/investment-consensus-10-funds.md` — 顶级基金投资共识
+- `raw/articles/llm-quant-trading.md` — LLM 量化交易
+- `raw/articles/content-creation-skills.md` — 内容创作技能包

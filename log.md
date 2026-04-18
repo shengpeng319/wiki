@@ -16,3 +16,25 @@
 - 新增 CLAUDE.md（LLM 行为指令层）
 - 补充 Obsidian 插件推荐：Git、Custom Attach Location、Obsidian Web Clipper、Graphify
 - 明确每页至少 2 个 wikilinks 外链规则
+
+## [2026-04-18] ingest | 摄入首批文章
+- 来源：raw/articles/karpathy-llm-wiki-zhihu.md（知乎文章）
+- 来源：raw/articles/vibecoding-pro-code-bilibili.md（B站视频笔记）
+- 新建 entities/andrew-karpathy.md
+- 新建 concepts/llm-wiki.md
+- 新建 concepts/raw-sources.md
+- 新建 concepts/vibecoding.md
+- 新建 comparisons/rag-comparison.md
+- 更新 index.md（Total pages: 7）
+
+## [2026-04-18] ingest | 摄入笔记同步助手剩余文章
+- 来源：raw/articles/tradingview-12-agents.md
+- 来源：raw/articles/investment-consensus-10-funds.md
+- 来源：raw/articles/llm-quant-trading.md
+- 来源：raw/articles/content-creation-skills.md
+- 新建 entities/tradingview-12-agents.md
+- 新建 concepts/investment-consensus.md
+- 新建 concepts/llm-quant-trading.md
+- 新建 concepts/quant-toolchain.md
+- 新建 concepts/content-creation-skills.md
+- 更新 index.md（Total pages: 15）
